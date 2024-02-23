@@ -1,0 +1,75 @@
+@charset "UTF-8";
+body {
+	width: 800px;
+	margin: 0px auto 0px auto;
+}
+nav {
+	width: 790px;
+	height: 30px;
+	padding: 10px 10px 10px 0px;
+	margin: 0px auto 0px auto;
+	float: left;
+}
+header {
+	width: 780px;
+	min-height: 350px;
+	margin: 0px auto 0px auto;
+	padding: 0px 10px 0px 10px;
+}
+header img {
+	margin: auto;
+	display: block;
+}
+
+footer {
+	width: 780px;
+	margin: 0px auto 0px auto;
+	padding: 10px;
+	clear: both;
+	float: left;
+}
+
+.main-text {
+	width: 770px;
+	margin: 0px auto 0px auto;
+	padding: 10px 15px 25px 15px;
+	float: left;
+}
+
+.face {
+	float: left;
+	width: 337.5px;
+	height: 225px;
+	padding: 0px 20px 10px 0px;
+	margin: 0px 10px 50px 0px;
+}
+.content {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	width: 500px;
+	height: auto;
+	padding: 35px 0px 10px 0px;
+}
+a {
+	text-align: center;
+	float: none;
+	display: block;
+	line-height: 1px;
+}
+nav ul {
+	width: 800px;
+	margin: 0px auto 0px auto;
+	text-align: left;
+}
+nav ul li {
+	list-style-type: none;
+	display: block;
+	margin-right: 50px;
+	float: left;
+}
+h1 {
+	font-weight: normal;
+	margin: 10px 0px 15px 0px;
+}
